@@ -1,0 +1,56 @@
+body{
+    background-color: #2b2b2b;
+}
+
+#title{
+    text-align: center;
+    padding: 2%;
+    margin: 2%;
+}
+h1{
+    font-family: 'Anton', sans-serif;
+    text-decoration: underline;
+    color: aliceblue;
+    text-align: left;
+    font-size: 3vw;
+    margin: 2%;
+    m
+}
+#text{
+    font-family: 'Noto Serif', serif;
+    color: aliceblue;
+    font-size: 1vw;
+    text-align: :left;
+    margin: 2%;
+}
+#menu{
+    width: 100%;
+    height: auto;
+    
+}
+
+.container{
+    display: flex;
+    justify-content: space-around;
+}
+
+.card_body{
+    color: #2b2b2b;
+}
+
+#cards{
+    margin: 2%;
+}
+
+#textcards{
+    font-family: 'Noto Serif', serif;
+    text-align: : center;
+    font-size: 1vw;
+
+}
+
+h2{
+    font-size: 2vw;
+    text-align: center;
+    color: aliceblue;
+}
